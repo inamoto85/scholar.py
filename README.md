@@ -96,3 +96,4 @@ License
 -------
 
 scholar.py is using the standard [BSD license](http://opensource.org/licenses/BSD-2-Clause).
+some added features
